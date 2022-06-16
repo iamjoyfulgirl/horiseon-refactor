@@ -40,4 +40,4 @@ The Horiseon website has been refactored to meet accessibility standards and is 
 ![Partial screenshot of completed website:](/horiseon-refactor.png)
 
 * The deployed application can be viewed at: https://iamjoyfulgirl.github.io/Module-1-Challenge/
-* The GitHub repository can be found at: 
+* The GitHub repository can be found at: https://github.com/iamjoyfulgirl/horiseon-refactor
